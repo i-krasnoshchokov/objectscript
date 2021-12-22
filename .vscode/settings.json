@@ -2,5 +2,11 @@
     "objectscript.conn.version": 3,
     "objectscript.conn.ns": "OSCRIPT",
     "objectscript.conn.port": 52773,
-    "objectscript.conn.active": true
+    "objectscript.conn.active": true,
+    "objectscript.conn": {
+        "version": 3,
+        "ns": "OSCRIPT",
+        "port": 52773,
+        "active": false
+    }
 }
